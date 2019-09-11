@@ -1,6 +1,15 @@
+div{
+	background-color: red;
+	opacity: .3;
+	cursor: pointer;
+}
 p{
+<<<<<<< HEAD
 	color:red;
 }
 *{
 	padding: 0;
+=======
+	color:lime;
+>>>>>>> dev
 }
