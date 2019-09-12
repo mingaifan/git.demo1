@@ -4,12 +4,9 @@ div{
 	cursor: pointer;
 }
 p{
-<<<<<<< HEAD
 	color:red;
 }
 *{
 	padding: 0;
-=======
 	color:lime;
->>>>>>> dev
 }
